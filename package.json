@@ -1,0 +1,17 @@
+{
+  "name": "graphql-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphiql": "^0.8.1",
+    "graphql": "^0.8.2"
+  }
+}
